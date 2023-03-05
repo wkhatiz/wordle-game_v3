@@ -1,5 +1,5 @@
-:warning: **Warning**
-This project is still in progress. This readme document will be uploaded once the application is functional
+> **Warning**
+> This project is still in progress. This readme document will be updated once the application is functional.
 
 # Wordle Game.V3
 
